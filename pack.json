@@ -1,0 +1,14 @@
+{
+    "name": "orchestra-mcp/pack-analytics",
+    "description": "ClickHouse analytics and OLAP agents",
+    "version": "0.1.0",
+    "type": "pack",
+    "license": "MIT",
+    "stacks": ["*"],
+    "contents": {
+        "skills": [],
+        "agents": ["clickhouse-engineer"],
+        "hooks": []
+    },
+    "tags": ["analytics", "clickhouse", "olap", "metrics"]
+}
